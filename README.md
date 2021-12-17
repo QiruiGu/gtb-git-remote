@@ -6,3 +6,4 @@ git remote is of great fun.
 - Derrick Rose
 - Kobe Bryant
 - Stephen Curry
+- Chris Paul
